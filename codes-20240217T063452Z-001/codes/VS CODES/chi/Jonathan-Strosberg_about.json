@@ -1,0 +1,38 @@
+{
+  "about": {
+    "number_of_publications": "390",
+    "citations": "16,920"
+  },
+  "co_authors": [
+    {
+      "name": "Aejaz Nasir",
+      "link": "profile/Aejaz-Nasir",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/418402729512961-1476766392833_Q64/Aejaz-Nasir.jpg",
+      "current_institution": "Eli Lilly"
+    },
+    {
+      "name": "Larry Kvols",
+      "link": "profile/Larry-Kvols",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/272327715848216-1441939395571_Q64/Larry-Kvols.jpg",
+      "current_institution": "Moffitt Cancer Center"
+    },
+    {
+      "name": "Eric P Krenning",
+      "link": "profile/Eric-Krenning",
+      "avatar": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "current_institution": "Erasmus MC"
+    },
+    {
+      "name": "Nicola Fazio",
+      "link": "profile/Nicola-Fazio-2",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/480826401005568-1491649355070_Q64/Nicola-Fazio-2.jpg",
+      "current_institution": "IEO - Istituto Europeo di Oncologia"
+    },
+    {
+      "name": "Martyn Caplin",
+      "link": "profile/Martyn-Caplin",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/671483013648387-1537105434742_Q64/Martyn-Caplin.jpg",
+      "current_institution": "University College London"
+    }
+  ]
+}

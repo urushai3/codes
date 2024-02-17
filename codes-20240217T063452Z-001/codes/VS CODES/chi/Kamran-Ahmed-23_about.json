@@ -1,0 +1,38 @@
+{
+  "about": {
+    "number_of_publications": "248",
+    "citations": "3,618"
+  },
+  "co_authors": [
+    {
+      "name": "Javier Torres-Roca",
+      "link": "profile/Javier-Torres-Roca",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/327999393157121-1455212557354_Q64/Javier-Torres-Roca.jpg",
+      "current_institution": "Moffitt Cancer Center"
+    },
+    {
+      "name": "Daniel E. Oliver",
+      "link": "profile/Daniel-Oliver-4",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/617937463414784-1524339180405_Q64/Daniel-Oliver-4.jpg",
+      "current_institution": "Moffitt Cancer Center"
+    },
+    {
+      "name": "George Yang",
+      "link": "profile/George-Yang",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/484507502551042-1492526998889_Q64/George-Yang.jpg",
+      "current_institution": "Moffitt Cancer Center"
+    },
+    {
+      "name": "Prakash Chinnaiyan",
+      "link": "profile/Prakash-Chinnaiyan",
+      "avatar": "https://i1.rgstatic.net/ii/profile.image/448272822214656-1483887977880_Q64/Prakash-Chinnaiyan.jpg",
+      "current_institution": "Oakland University"
+    },
+    {
+      "name": "Michelle Echevarria",
+      "link": "profile/Michelle-Echevarria-2",
+      "avatar": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+      "current_institution": "Moffitt Cancer Center"
+    }
+  ]
+}
